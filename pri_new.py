@@ -4,7 +4,8 @@ xxx="potato inside"
 print (xxx.upper())
 print(""" fdfdf
 dfddfdfd
-dfdfffdf""")
+dfdfffdf
+12334445ff""")
 
 print(" aaafdfdf\
 fdfsgbvbbcvbc\
