@@ -13,6 +13,6 @@ tytryrt")
 
 games = int(input("Computer Games: "))
 
-total =  games
+total =  games+6
 
 print("\nGrand Total:", total)
